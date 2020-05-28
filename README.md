@@ -1,23 +1,11 @@
-# JRP Template 
-![](https://www.travis-ci.com/joostpapendorp/java-template.svg?branch=master)
-[![codecov](https://codecov.io/gh/joostpapendorp/java-template/branch/master/graph/badge.svg)](https://codecov.io/gh/joostpapendorp/java-template)
+# Training Test Driven Development
+![travis](https://www.travis-ci.com/joostpapendorp/tdd-training.svg?branch=master)
+[![codecov](https://codecov.io/gh/joostpapendorp/tdd-training/branch/master/graph/badge.svg)](https://codecov.io/gh/joostpapendorp/tdd-training)
 
-This project is a template for Java projects. Replace this readme with information relevant to your app.
+These are the examples, exercises and katas needed for the training Test Driven Development.
 
 ### Getting started
-See the [guide](docs/getting-started.md)
-
-### Contribution guidelines
-These can be found [here](docs/contribution-guidelines.md). Please read carefully before committing.
-
-### Download and installation
-[...]
+Clone this repository and follow the [getting started guide](docs/getting-started-guide.md)
 
 ### Licensing
 This template project is available under the GNU General Public Licence version 3 or later.
-
-### Maintainers
-[...]
-
-### Links, tutorials and further reading
-[...]
